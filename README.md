@@ -1,5 +1,3 @@
-# Soy-bean-detection-NumPy-only-
-Soybean classification via a neural network
 <h1 align="center"> Soy bean detection (NumPy only) (Kaggle Dataset)</h1>
 <p align="center">
 A basic implementation of a custom made neural network
