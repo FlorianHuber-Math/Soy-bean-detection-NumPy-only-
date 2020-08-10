@@ -7,7 +7,8 @@ A basic implementation of a custom made neural network
 This notebook was intended to run on Google colab.
 Additionally, you will need a kaggle username and api key.
 If you don't have one, create a free kaggle account. You can obtain a kaggle.json file through your account and find kaggle username and api key in there.
-Simply paste both inside the jupyter notebook.
+You can also download the dataset from kaggle to your local machine.
+
 
 ### Built With
 - [numpy](https://numpy.org/)
